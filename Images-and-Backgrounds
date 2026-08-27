@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>TRAVEL DESTINATIONS </title>
+</head>
+<body background="bg.jpg"> </body>
+    <h1> Cities i Want to  Visit </h1>
+    <ul type="circle">
+        <li> INDIA </li>
+        <ol type="1">
+            <li> Taj Mahal</li>
+            <li>  Qutab Minar </li>
+            <img src="qm.jpg"alt="qm.jpg"height="349px",weight="555px">
+
+        
+        </ol>
+        <li> USA </li>
+        <li> PARIS </li> 
+        <img src="effil.jpg",alt="effil.jpg"height="170px",weight="240px">
+        <ol> 
+            <li> Effil tower </li>
+        </ol>
+    </ul>
+</body>
+</html>
